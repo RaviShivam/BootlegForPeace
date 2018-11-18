@@ -1,4 +1,2 @@
-# BootlegForPeace
-Forecast-based financing of disaster in need of humanitarian support
-
-Hello world
+# Bootleg For Peace
+Forecast-based financing of disaster in need of humanitarian support. All the script that is actually used for the prediction of of new number of refugees and cost determination and fund allocation can be found in the main python notebook (documentation included) all others are preprocessing and testing files which may or may not work immediately.
